@@ -1,1 +1,1 @@
-# Welcom To Accelerarch's GitHub!!
+# Welcome To Accelerarch's GitHub!!
